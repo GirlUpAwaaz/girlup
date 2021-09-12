@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html  >
 <head>
-<script data-ad-client="ca-pub-8548888742582389" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8548888742582389"
-     crossorigin="anonymous"></script>
   <!-- Site made with Mobirise Website Builder v5.3.10, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,7 +10,7 @@
   <meta name="description" content="">
   
   
-  <title>Girl Up Awaaz</title>
+  <title>Home</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -52,9 +49,11 @@
         <div class="container">
             <div class="navbar-brand">
                 <span class="navbar-logo">
+                    <a href="https://mobiri.se">
                         <img src="assets/images/pp-1.jpg" alt="Mobirise" style="height: 3rem;">
+                    </a>
                 </span>
-                <span class="navbar-caption-wrap">Girl Up Awaaz</span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-7" href="https://mobiri.se">Girl Up Awaaz</a></span>
             </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <div class="hamburger">
@@ -65,7 +64,7 @@
                 </div>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="/ourteam">Our Team</a></li><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="/events">Events</a></li>
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="https://girlup.therj.in/ourteam">Our Team</a></li><li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="https://girlup.therj.in/events">Events</a></li>
                     <li class="nav-item"><a class="nav-link link text-black text-primary display-4" href="index.html#contacts2-5">Contact Us</a>
                     </li></ul>
                 <div class="icons-menu">
@@ -99,20 +98,6 @@
                 
                 <p class="mbr-text mbr-fonts-style display-7">Girl Up inspires, convenes, trains and connects girls globally, helping to position them as leaders and changemakers. <br>Girl Up Awaaz is a chain of Girl Up global campaign and is an intiative of United Nations Foundations.<br>Awaaz means "Voice" and we aim at becoming people's voice who have been facing issues of discrimination and patriarchy.</p>
                 
-            </div>
-        </div>
-    </div>
-</section>
-
-<section class="content6 cid-sGbeoMTnMO" id="content6-a">
-    
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-md-12 col-lg-10">
-                <hr class="line">
-                <p class="mbr-text align-center mbr-fonts-style my-4 display-5">
-                    <em>Register for Upcoming PCOS Live Event! Visit <a href="index.html#features9-8" class="text-primary">Events</a> Section!</em></p>
-                <hr class="line">
             </div>
         </div>
     </div>
@@ -222,7 +207,7 @@
                                 </div>
                                 <div class="col-md-auto">
                                     
-                                    <div class="mbr-section-btn"><a href="/events" class="btn btn-primary display-1">Events</a></div>
+                                    <div class="mbr-section-btn"><a href="https://girlup.therj.in/events" class="btn btn-primary display-1"><span class="mobi-mbri mobi-mbri-cursor-click mbr-iconfont mbr-iconfont-btn"></span>Events</a></div>
                                 </div>
                                 <div></div>
                             </div>
@@ -244,7 +229,7 @@
             <div class="col-12 col-lg-8">
                 <h3 class="mbr-section-title mb-4 mbr-fonts-style display-5"><strong>Subscribe to our Newsletter for updates and news regarding Girl Up Awaaz.</strong></h3>
                 
-                <div class="mbr-section-btn"><a class="btn btn-white display-5" href="/newsletter">Subscribe</a></div>
+                <div class="mbr-section-btn"><a class="btn btn-secondary display-5" href="https://girlup.therj.in/newsletter"><span class="mobi-mbri mobi-mbri-alert mbr-iconfont mbr-iconfont-btn"></span>Subscribe</a></div>
             </div>
         </div>
     </div>
@@ -312,11 +297,13 @@
         <div class="media-container-row">
             <div class="col-md-3 col-6">
                 <div class="media-wrap">
+                    <a href="https://mobirise.co/">
                         <img src="assets/images/pp-309x309.jpg" alt="Mobirise">
+                    </a>
                 </div>
             </div>
             <div class="col-9 col-6">
-                <p class="mbr-text align-right links mbr-fonts-style display-7"><a href="/ourteam" class="text-primary">Our Team&nbsp;</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/events" class="text-primary">Events</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="index.html#contacts2-5" class="text-black text-primary">Contact</a>
+                <p class="mbr-text align-right links mbr-fonts-style display-7"><a href="https://girlup.therj.in/ourteam" class="text-primary">Our Team&nbsp;</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://girlup.therj.in/events" class="text-primary">Events</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="index.html#contacts2-5" class="text-black text-primary">Contact</a>
                 </p>
             </div>
         </div>
@@ -361,7 +348,7 @@
         </div>
 
     </div>
-</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/v" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;"><a href="https://mobirise.site/r" style="color:#aaa;">This page</a> was started with Mobirise templates</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/parallax/jarallax.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
+</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/p" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;"><a href="https://mobirise.site/r" style="color:#aaa;">This website</a> was made with Mobirise themes</p></section><script src="assets/web/assets/jquery/jquery.min.js"></script>  <script src="assets/popper/popper.min.js"></script>  <script src="assets/tether/tether.min.js"></script>  <script src="assets/bootstrap/js/bootstrap.min.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/dropdown/js/nav-dropdown.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>  <script src="assets/parallax/jarallax.min.js"></script>  <script src="assets/theme/js/script.js"></script>  
   
   
 </body>
